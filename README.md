@@ -12,6 +12,7 @@
 
 
 ├── Admin panel
+
           ├── index.php                                              # For admin login open
 
           ├── dashboard.php                                 # User task dashboard & Admin task based on login show task and also add
@@ -22,7 +23,6 @@
           
           |── admin_delete.php                                  # Admin dashboard to delete task
 
-           
 |── User Task               
           
           ├── dashboard.php                                       # User task add & show
@@ -48,8 +48,11 @@
 
 
 ├── Home.php                                                       # Dummy landing page
+
 ├── About.php                                                      # Dummy about page
+
 ├── Service.php                                                     # Dummy service page
+
 
 # Database name    : task_app
 # Bootstrap css used
