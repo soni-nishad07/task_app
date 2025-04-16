@@ -1,5 +1,7 @@
 
 /task-app/
+
+
 ├── db.php                                                           # Database connection
 ├── auth.php                                                          # Session and auth functions
 ├── register.php                                                     # User registration
