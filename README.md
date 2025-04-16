@@ -2,13 +2,13 @@
 /task-app/
 
 
-├── db.php                                                           # Database connection
+├── db.php                                                                       # Database connection
 
-├── auth.php                                                          # Session and auth functions
+├── auth.php                                                                    # Session and auth functions
 
-├── register.php                                                     # User registration
+├── register.php                                                                # User registration
 
-├── login.php                                                         # User login
+├── login.php                                                                   # User login
 
 
 ├── Admin panel
