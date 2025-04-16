@@ -1,5 +1,5 @@
 
-/task-app/
+/task_app/
 
 
 ├── db.php                                                                       # Database connection
